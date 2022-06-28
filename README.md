@@ -20,7 +20,7 @@ ex. Windows 10
 
 ### Authors
 #### Contributors names and contact info
-ex. Dominique Pizzie
+ex. Wilson Blanco
 ex. [@DomPizzie](https://pages.github.com/)
 
 
@@ -33,4 +33,6 @@ See commit change or See release history
 ## Initial Release
 
 ## License
+####
+
 This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
