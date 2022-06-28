@@ -1,4 +1,4 @@
-########## CalculationGame
+###### CalculationGame
 Calculation game in C++
 ## Getting Started
 ### Dependencies
